@@ -1,16 +1,16 @@
-# Элемент, Функция, Группа
+# Element, Function, Group
 
-Методология описания документов.
+A methodology for describing documents.
 
-## Что такое Элемент?
+## What is the Element?
 
-Любой объект, созданный человеком, может быть разделён на _элементы,_ каждый из которых может "нести" некоторые _функции._
+Any object made by human can be divided into _Elements,_ and any Element can carry _Functions._
 
 ## What is the Function?
 
-Термин _функция_ используется в Э-Ф-Г более широко, чем обычно. По умолчанию _функция_ - это ответ на вопрос "Что это может значить?".
+The term _Function_ in E-F-G is used more widely than usual. By default it responds to the question 'What this could mean?'
 
-## Юридическая информация
+## Legal information
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
