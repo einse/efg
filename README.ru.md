@@ -20,12 +20,12 @@
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="github.com/einse">
+     href="https://github.com/einse">
     <span property="dct:title">Serguey Arsentev</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">'Element, Function, Group' methodology</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="RU" about="github.com/einse">
+      content="RU" about="https://github.com/einse">
   Russian Federation</span>.
 </p>
