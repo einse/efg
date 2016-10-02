@@ -8,7 +8,7 @@ Any object made by human can be divided into _Elements,_ and any Element can car
 
 ## What is the Function?
 
-The term _Function_ in E-F-G is used more widely than usual. By default it responds to the question 'What this could mean?'
+The term _Function_ in E-F-G is used more widely than usual. By default it responds to the question 'What does it mean?' or 'What is the purpose of this?'.
 
 ## Legal information
 
