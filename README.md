@@ -21,7 +21,7 @@ The term _Function_ in E-F-G is used more widely than usual. By default it respo
   To the extent possible under law,
   <a rel="dct:publisher"
      href="https://github.com/einse">
-    <span property="dct:title">Serguey Arsentev</span></a>
+    <span property="dct:title">Sergey Arsentev</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">'Element, Function, Group' methodology</span>.
 This work is published from:
